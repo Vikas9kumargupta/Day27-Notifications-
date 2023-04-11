@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day27 Notifications</string>
+    <string name="notification_tutorial">Notification Tutorial</string>
+    <string name="button">BUTTON</string>
+</resources>
